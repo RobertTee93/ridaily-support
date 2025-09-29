@@ -18,5 +18,5 @@ No — just play instantly. Stats are stored on your device.
 ---
 
 ## Contact
-If you need more help, email us:  
+If you need more help, email us here:  
 👉 [ridailyios@gmail.com](mailto:ridailyios@gmail.com)
